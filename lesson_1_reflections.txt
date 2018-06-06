@@ -1,0 +1,29 @@
+How did viewing a differ between two versions of a file help you see the bug that was introduced?
+
+It showed me the comparison between two different files!
+
+Why do you think some version control systems, like Git,
+allow saving multiple files in one commit, while others,
+like Google Docs, treat each file separately?
+
+Git allows saving mutiple files in one commit because
+in programming experiences different files interact
+dynamically so commiting multiple files is made
+possible.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log shows you the ids of all the commits, and git diff shows you the comparison between two
+
+How might using version control make you more
+confident to make changes that could 
+break something?
+
+git checkout and git diff allow you to 
+find found when you made a particualr bug and fit it
+by provinding git diff
+
+Now that you have your workspace set up,
+what do you want to try using Git for?
+
+I want to become a CTO
